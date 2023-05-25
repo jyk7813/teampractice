@@ -1,6 +1,6 @@
-//김민성
 
 package teamPractice;
+//김민성
 // 주하태
 // 장명근
 public class testclass {

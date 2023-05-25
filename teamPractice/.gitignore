@@ -1,0 +1,7 @@
+# 폴더무시(경로 이름 적으면 됨)
+/bin/
+#모든 class 확자 파일 무
+*.class
+# 무시할 파일 이름을 적으면 됨.
+.classpath
+.project
